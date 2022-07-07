@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Canon EOS R5",
+    "price": 3899.00,
+    "imgUrl": "/imgs/canon.jpeg"
+  },
+  {
+    "id": 2, 
+    "name": "Sony a7 IV",
+    "price": 2698.00,
+    "imgUrl": "/imgs/sony.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Leica Q2",
+    "price": 5795.00,
+    "imgUrl": "/imgs/leica.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Lumix GH6",
+    "price": 2797.00,
+    "imgUrl": "/imgs/lumix.jpeg"
+  }
+]
